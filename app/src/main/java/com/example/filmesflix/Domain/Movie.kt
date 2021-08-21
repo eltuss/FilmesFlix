@@ -1,4 +1,4 @@
-package com.example.filmesflix.model
+package com.example.filmesflix.Domain
 
 import android.os.Parcelable
 import com.google.gson.annotations.SerializedName

@@ -1,4 +1,4 @@
-package com.example.filmesflix
+package com.example.filmesflix.presenter
 
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView
